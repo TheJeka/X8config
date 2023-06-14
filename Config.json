@@ -1,6 +1,6 @@
 {
   "custom" : {
-    "ShutdownTimer.NoPlayers" : 1,
-	"ShutdownTimer.GameOver" : 1
+    "ShutdownTimer.NoPlayers" : 60,
+	"ShutdownTimer.GameOver" : 15
   }
 }
