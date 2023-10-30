@@ -7,6 +7,6 @@
     "IdleComponent.EnableKickPlayers": true,
     "X8.RoundPhase.Warmup_roundphase.WarmupAllowRebalance": true,
     "MapRotation.CustomMatch": "PlazaUtopia_level",
-    "MapRotation.NormalMatch": "MechGarage_level"
+    "MapRotation.NormalMatch": "RockFortress_level"
   }
 }
