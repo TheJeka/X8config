@@ -1,6 +1,11 @@
 {
-  "custom" : {
-    "ShutdownTimer.NoPlayers" : 60,
-	"ShutdownTimer.GameOver" : 15
+  "custom" : 
+  {
+    "GameMode.RoundCount": 6,
+    "GameMode.NumPlayersToStartGame": 3,
+    "GameMode.ForbidLateJoinRound": 3,
+    "IdleComponent.EnableKickPlayers": true,
+    "X8.RoundPhase.Warmup_roundphase.WarmupAllowRebalance": true,
+    "MapRotation.CustomMatch": "RockFortress_level PlazaUtopia_level gamemode_workshop"
   }
 }
