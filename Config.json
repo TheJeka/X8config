@@ -7,6 +7,6 @@
     "IdleComponent.EnableKickPlayers": true,
     "X8.RoundPhase.Warmup_roundphase.WarmupAllowRebalance": true,
     "MapRotation.CustomMatch": "gamemode_workshop",
-    "MapRotation.NormalMatch": "gamemode_workshop"
+    "MapRotation.NormalMatch": "gun_workshop"
   }
 }
